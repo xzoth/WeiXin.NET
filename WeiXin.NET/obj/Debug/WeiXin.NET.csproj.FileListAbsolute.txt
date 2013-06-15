@@ -1,0 +1,5 @@
+E:\WeinXin.NET\WeiXin.NET\bin\Debug\WeiXin.NET.dll
+E:\WeinXin.NET\WeiXin.NET\bin\Debug\WeiXin.NET.pdb
+E:\WeinXin.NET\WeiXin.NET\obj\Debug\WeiXin.NET.csprojResolveAssemblyReference.cache
+E:\WeinXin.NET\WeiXin.NET\obj\Debug\WeiXin.NET.dll
+E:\WeinXin.NET\WeiXin.NET\obj\Debug\WeiXin.NET.pdb
